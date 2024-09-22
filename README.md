@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/ALEKH_SACHAN" target="blank"><img src="https://img.shields.io/twitter/follow/alekhsachan?logo=twitter&style=for-the-badge" alt="alekhsachan" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and C language**
+- 🌱 I’m currently learning **Data Structure & Algorithm**
 
 - 📫 How to reach me **alekhsachan03@gmail.com**
 
