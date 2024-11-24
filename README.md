@@ -15,7 +15,7 @@
   <a href="https://twitter.com/alekhsachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="alekhsachan" height="30" width="40" /></a>
   <a href="https://instagram.com/@alekh.sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alekh_sachan" height="30" width="40" /></a>
   <a href="https://hashnode.com/@alekh" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="alekh" height="30" width="100" /></a>
-  <a href="https://leetcode.com/u/alekhsachan03/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="alekhsachan03" height="30" width="100" /></a>
+  <a href="https://leetcode.com/u/alekhsachan/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="alekhsachan03" height="30" width="100" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
