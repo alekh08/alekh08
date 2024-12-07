@@ -1,6 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alekh Sachan</h1>
-<h3 align="center">A passionate AI Engineer</h3>
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifdb.com%2Fcoding&psig=AOvVaw2h1pR1Iqoc9YHgGS_hO2cO&ust=1699796472095000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCODU2MKJvIIDFQAAAAAdAAAAABAY">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekh08&label=Profile%20views&color=0e75b6&style=flat" alt="alekh08" /> </p>
 
