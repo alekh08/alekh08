@@ -1,6 +1,6 @@
-<h3 align="center">Hi 👋, I'm Alekh Sachan</h3>
+<h3>Hi 👋, I'm Alekh Sachan</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
   <a href="https://twitter.com/Alekh_sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alekh_sachan" height="30" width="40" /></a>
   <a href="https://instagram.com/alekh.sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alekh_sachan" height="30" width="40" /></a>
