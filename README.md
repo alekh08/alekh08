@@ -1,4 +1,4 @@
-<h3>Hi 👋, I'm Alekh Sachan</h3>
+Hi 👋, I'm Alekh Sachan
 
 <h5 align="left">Connect with me:</h5>
 <p align="left">
