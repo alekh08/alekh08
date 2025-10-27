@@ -1,7 +1,19 @@
-Hi 👋, I'm Alekh Sachan
+<div align="center">
 
-<h5 align="left">Connect with me:</h5>
-<p align="left">
+# 👋 Hey, I'm Alekh  
+
+AI & ML student passionate about building intelligent systems and solving real-world problems through code.  
+Focused on **DSA**, **AI**, and constant self-improvement.  
+Always learning, always building...
+
+<br>
+
+💻 *Wanna know more about me? Scroll down, the code speaks louder.*
+
+</div>
+
+<h5 align="center">Connect with me:</h5>
+<p align="center">
   <a href="https://twitter.com/Alekh_sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alekh_sachan" height="30" width="40" /></a>
   <a href="https://instagram.com/alekh.sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alekh_sachan" height="30" width="40" /></a>
   <a href="https://hashnode.com/@alekh" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="alekh" height="30" width="100" /></a>
