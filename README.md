@@ -8,7 +8,6 @@ Always learning, always building...
 
 <br>
 
-💻 *Wanna know more about me? Scroll down, the code speaks louder.*
 
 </div>
 
