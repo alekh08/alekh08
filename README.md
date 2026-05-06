@@ -43,6 +43,7 @@ Always learning, always building...
   <a href="https://leetcode.com/u/alekhsachan/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="alekhsachan03" height="30" width="100" /></a>
   <a href="https://linkedin.com/in/alekh-sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alekh-sachan" height="30" width="40" /></a>
 </p>
+-->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
@@ -55,4 +56,4 @@ Always learning, always building...
 <h3 align="left">GitHub Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekh08&show_icons=true&locale=en&layout=compact" alt="alekh08" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekh08&show_icons=true&locale=en" alt="alekh08" /></p> -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekh08&show_icons=true&locale=en" alt="alekh08" /></p> 
