@@ -1,59 +1,90 @@
 <div align="center">
 
-# 👋 Hey, I'm Alekh  
+# Hey, I'm Alekh 👋
 
-AI & ML student passionate about building intelligent systems and solving real-world problems through code.  
-Focused on **DSA**, **AI**, and constant self-improvement.  
-Always learning, always building...
-
-<br>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Student;Building+Intelligent+Systems;Always+Learning+Always+Building" />
 
 </div>
 
-<h5 align="center">Connect with me:</h5>
+---
+
+## 🚀 About Me
+
+- 🎓 BTech Student in **AI & Machine Learning**
+- 💻 Focused on **DSA, AI, and Backend Development**
+- 🧠 Passionate about solving real-world problems through code
+- 📚 Constantly learning and building projects
+- ⚡ Interested in startups, intelligent systems, and scalable tech
+
+---
+
+## 🌐 Connect With Me
+
 <p align="center">
-  <a href="https://twitter.com/Alekh_sachan" target="_blank">
-  <img align="center" src="https://img.freepik.com/premium-vector/new-twitter-logo-x-2023-twitter-x-logo-vector-download_691560-10794.jpg?w=1380" alt="Twitter X Logo" height="30" width="40" />
+  <a href="https://linkedin.com/in/alekh-sachan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
   </a>
-  <a href="https://instagram.com/alekh.sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alekh_sachan" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@alekh" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="alekh" height="30" width="100" /></a>
-  <a href="https://leetcode.com/u/alekhsachan/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="alekhsachan03" height="30" width="100" /></a>
-  <a href="https://linkedin.com/in/alekh-sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alekh-sachan" height="30" width="40" /></a>
+  
+  <a href="https://instagram.com/alekh.sachan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+  </a>
+
+  <a href="https://twitter.com/Alekh_sachan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" height="45"/>
+  </a>
+
+  <a href="https://hashnode.com/@alekh" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/hashnode.svg" height="40"/>
+  </a>
 </p>
 
-## 🚀 LeetCode Stats
+---
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/alekhsachan?theme=dark&font=Karma&ext=heatmap)
+# 💻 Tech Stack
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nextjs" />
+
+### Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mysql,mongodb,firebase" />
+
+### AI / ML
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+
+### Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,bash" />
+
+</div>
 
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=alekh08&label=Profile%20views&color=0e75b6&style=flat" alt="alekh08" /> </p>
 
-<p align="left"> <a href="https://twitter.com/ALEKH_SACHAN" target="blank"><img src="https://img.shields.io/twitter/follow/alekhsachan?logo=twitter&style=for-the-badge" alt="alekhsachan" /></a> </p>
+# 🔥 LeetCode Stats
 
-- 🌱 I’m currently learning **Data Structure & Algorithm**  
-- 📫 How to reach me: **alekhsachan03@gmail.com**  
-- ⚡ Fun fact: **I Love solving Real world problems**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/Alekh_sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Alekh_sachan" height="30" width="40" /></a>
-  <a href="https://instagram.com/alekh.sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@alekh_sachan" height="30" width="40" /></a>
-  <a href="https://hashnode.com/@alekh" target="blank"><img align="center" src="https://img.shields.io/badge/Hashnode-2962FF?logo=hashnode&logoColor=white&style=for-the-badge" alt="alekh" height="30" width="100" /></a>
-  <a href="https://leetcode.com/u/alekhsachan/" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=black&style=for-the-badge" alt="alekhsachan03" height="30" width="100" /></a>
-  <a href="https://linkedin.com/in/alekh-sachan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alekh-sachan" height="30" width="40" /></a>
-</p>
--->
+<img src="https://leetcard.jacoblin.cool/alekhsachan?theme=dark&font=Karma&ext=heatmap" />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a>
-</p>
+</div>
 
-<h3 align="left">GitHub Stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alekh08&show_icons=true&locale=en&layout=compact" alt="alekh08" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alekh08&show_icons=true&locale=en" alt="alekh08" /></p> 
+# 📈 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=alekh08&theme=tokyo-night&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+### “Always learning. Always building.”
+
+</div>
