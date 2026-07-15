@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-- 🎓 BTech Student in **AI & Machine Learning**
+- 🎓 B.Tech Student in **AI & Machine Learning**
 - 💻 Focused on **DSA, AI, and Backend Development**
 - 🧠 Passionate about solving real-world problems through code
 - 📚 Constantly learning and building projects
